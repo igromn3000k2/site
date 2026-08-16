@@ -1,5 +1,6 @@
 # site
-    <h1>THIS IS JUST SITE (nope)</h1>
-    <h2>ЭТО ПРОСТО САЙТ (не совсем)</h2>
-    <h3>ЦЕ ПРОСТО САЙТ (ні зовсім)</h3>
-    <h5>if you do this:  https://igromn3000k2.github.io/site/REGISTER.zip but this is a ru version no Ukrainian or us version, sorry :(</h5>
+THIS IS JUST SITE (nope)
+ЭТО ПРОСТО САЙТ (не совсем)
+ЦЕ ПРОСТО САЙТ (ні зовсім)
+if you do this:  https://igromn3000k2.github.io/site/REGISTER.zip but this is a ru version no Ukrainian or us version, sorry :(
+(*the link dowloads .zip archive)
